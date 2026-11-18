@@ -1,0 +1,32 @@
+Modèle d'article — copier ce contenu dans un fichier <nom>.json du même dossier.
+"status" : "draft" (hors ligne) ou "published" (en ligne). "date" : AAAA-MM-JJ, ou "" pour ne pas afficher de date.
+La version "en" est facultative ; sans elle, la page anglaise affiche l'article en français.
+
+{
+  "slug": "titre-court-sans-accents",
+  "status": "draft",
+  "order": 1,
+  "date": "2026-12-01",
+  "cover": "/media/actualites/mon-dossier/01.jpg",
+  "photos": [
+    {"file": "/media/actualites/mon-dossier/02.jpg", "fr": "Légende en français.", "en": "Caption in English."}
+  ],
+  "fr": {
+    "category": "Visite officielle",
+    "title": "Titre de l'article",
+    "lead": "Chapeau : deux lignes qui résument l'article.",
+    "cover_alt": "Description de la photo principale",
+    "body": [
+      {"p": "Premier paragraphe."},
+      {"h": "Intertitre"},
+      {"p": "Deuxième paragraphe."}
+    ]
+  },
+  "en": {
+    "category": "Official visit",
+    "title": "Article title",
+    "lead": "Standfirst.",
+    "cover_alt": "Description of the main photo",
+    "body": [{"p": "First paragraph."}]
+  }
+}

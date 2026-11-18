@@ -1,0 +1,93 @@
+{
+  "slug": "visite-ministre-mines-amzeguer",
+  "status": "published",
+  "order": 1,
+  "date": "2026-11-18",
+  "cover": "/media/actualites/visite-ministre-mines/01.jpg",
+  "photos": [
+    {
+      "file": "/media/actualites/visite-ministre-mines/02.jpg",
+      "fr": "La délégation ministérielle parcourt le périmètre du site d'AMZEGUER.",
+      "en": "The ministerial delegation walks the AMZEGUER site."
+    },
+    {
+      "file": "/media/actualites/visite-ministre-mines/03.jpg",
+      "fr": "Échanges sur le terrain entre la délégation et les équipes de SGCI.",
+      "en": "Discussions in the field between the delegation and SGCI teams."
+    },
+    {
+      "file": "/media/actualites/visite-ministre-mines/04.jpg",
+      "fr": "Présentation de lots de minerai ensaché à la délégation.",
+      "en": "Bagged ore lots are presented to the delegation."
+    },
+    {
+      "file": "/media/actualites/visite-ministre-mines/05.jpg",
+      "fr": "Accueil de la délégation sur le site.",
+      "en": "The delegation is welcomed on site."
+    }
+  ],
+  "fr": {
+    "category": "Visite officielle",
+    "title": "Le Ministre des Mines en visite approfondie sur le site aurifère d'AMZEGUER",
+    "lead": "Le Commissaire-Colonel Ousmane Abarchi, Ministre des Mines, s'est rendu sur le site d'AMZEGUER, exploité par SGCI dans le massif de l'Aïr, à la tête d'une délégation de cadres du Ministère et de dirigeants du secteur minier.",
+    "cover_alt": "Le Ministre des Mines et sa délégation devant des lots de minerai ensaché sur le site d'AMZEGUER",
+    "body": [
+      {
+        "p": "La Société Générale de Commerce et de l'Industrie (SGCI SARLU) a eu l'honneur d'accueillir sur son site aurifère d'AMZEGUER, dans la commune de Tabelot, région d'Agadez, le Ministre des Mines de la République du Niger, le Commissaire-Colonel Ousmane Abarchi."
+      },
+      {
+        "p": "Le Ministre était accompagné de ses collaborateurs de l'administration centrale du Ministère des Mines ainsi que de plusieurs directeurs généraux de sociétés minières. La délégation a été reçue par le Directeur Général de SGCI, Monsieur Abdoulaye Massaoud Yalloni, entouré des équipes de la société."
+      },
+      {
+        "p": "Cette visite a également été marquée par la présence de hautes personnalités, parmi lesquelles le Président-Directeur Général du Groupe SOS, Monsieur Assalih Ibrahim Ari, dit « Saley Boss »."
+      },
+      {
+        "h": "Une visite de terrain détaillée"
+      },
+      {
+        "p": "Durant cette visite approfondie, la délégation ministérielle a parcouru le périmètre d'exploitation aux côtés du Directeur Général, qui a présenté les travaux en cours et l'organisation du site. Des lots de minerai ensaché ont été présentés au Ministre et à sa délégation, et les échanges se sont poursuivis directement sur le terrain avec les équipes techniques."
+      },
+      {
+        "h": "L'engagement de SGCI"
+      },
+      {
+        "p": "Pour SGCI, cette visite est une marque d'attention des plus hautes autorités du secteur envers une société minière nigérienne. Elle conforte la société dans ses engagements : conduire ses activités dans le respect du Code minier, assurer la traçabilité de l'or produit et contribuer au développement des communautés de la région d'Agadez."
+      },
+      {
+        "p": "La Direction Générale de SGCI adresse ses vifs remerciements à Monsieur le Ministre des Mines, à l'ensemble de sa délégation et aux personnalités qui ont honoré le site de leur présence."
+      }
+    ]
+  },
+  "en": {
+    "category": "Official visit",
+    "title": "Minister of Mines makes an in-depth visit to the AMZEGUER gold site",
+    "lead": "Commissaire-Colonel Ousmane Abarchi, Minister of Mines, visited the AMZEGUER site, operated by SGCI in the Aïr massif, leading a delegation of Ministry officials and mining sector executives.",
+    "cover_alt": "The Minister of Mines and his delegation in front of bagged ore lots at the AMZEGUER site",
+    "body": [
+      {
+        "p": "Société Générale de Commerce et de l'Industrie (SGCI SARLU) had the honour of welcoming the Minister of Mines of the Republic of Niger, Commissaire-Colonel Ousmane Abarchi, to its AMZEGUER gold site in the commune of Tabelot, Agadez region."
+      },
+      {
+        "p": "The Minister was accompanied by officials from the central administration of the Ministry of Mines and by several chief executives of mining companies. The delegation was received by the Chief Executive Officer of SGCI, Mr Abdoulaye Massaoud Yalloni, together with the company's teams."
+      },
+      {
+        "p": "The visit was also marked by the presence of distinguished guests, including the Chairman and Chief Executive Officer of Groupe SOS, Mr Assalih Ibrahim Ari, known as “Saley Boss”."
+      },
+      {
+        "h": "A detailed field visit"
+      },
+      {
+        "p": "During this in-depth visit, the ministerial delegation toured the operating perimeter alongside the Chief Executive Officer, who presented the work in progress and the organisation of the site. Bagged ore lots were presented to the Minister and his delegation, and discussions continued in the field with the technical teams."
+      },
+      {
+        "h": "SGCI's commitment"
+      },
+      {
+        "p": "For SGCI, this visit is a mark of attention from the highest authorities of the sector towards a Nigerien mining company. It strengthens the company's commitments: to operate in compliance with the Mining Code, to ensure the traceability of the gold produced, and to contribute to the development of communities in the Agadez region."
+      },
+      {
+        "p": "SGCI's management extends its sincere thanks to the Minister of Mines, to his entire delegation and to the distinguished guests who honoured the site with their presence."
+      }
+    ]
+  }
+}
